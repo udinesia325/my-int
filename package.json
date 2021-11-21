@@ -1,0 +1,11 @@
+{
+  "name": "my-int",
+  "version": "1.0.3",
+  "description": "for manipulating integer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "udinesia325@gmail.com",
+  "license": "ISC"
+}
